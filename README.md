@@ -1,71 +1,32 @@
-<div align="center">
+# Robert Iuoras · TaskDriver.ai
 
-# Robert — TaskDriver.ai
+**Founder and lead developer of [TaskDriver.ai](https://taskdriver.ai), a full-time AI automation agency on the Gold Coast, Australia.**
 
-### I build the automation that runs a small business while its owner sleeps.
+I build AI automations, agents, CRMs and websites for service businesses, and white-label for agencies, on the client's own accounts and keys. My own business runs on an agent system I built: agents do the work, a person approves anything that sends or spends, and monitors raise an alert when something breaks. Clients get the same discipline.
 
-AI automation · web design · WhatsApp & voice agents — for New Zealand and Australian businesses.
+[Case studies](https://taskdriver.ai/our-work) · [taskdriver.ai](https://taskdriver.ai) · [toolstash.xyz](https://toolstash.xyz)
 
-[**taskdriver.ai**](https://taskdriver.ai) &nbsp;·&nbsp;
-[**toolstash.xyz**](https://toolstash.xyz) &nbsp;·&nbsp;
-[**Work with me**](https://taskdriver.ai/#contact)
+## Client work
 
-[![Website](https://img.shields.io/badge/taskdriver.ai-live-6366f1?style=flat-square)](https://taskdriver.ai)
-[![Location](https://img.shields.io/badge/New%20Zealand%20%26%20Australia-475569?style=flat-square)](https://taskdriver.ai)
-[![Airtasker](https://img.shields.io/badge/Airtasker-4.9%E2%98%85%20%C2%B7%2060%2B%20reviews-22c55e?style=flat-square)](https://taskdriver.ai)
+- **Property-investment educator** (monthly retainer since June 2026): leads that fell between ClickFunnels, Zapier and Mailchimp now land in one list. An AI system watches 227 channels and drafts the team's next scripts, and a person approves each one in WhatsApp.
+- **Voice-coaching studio** (monthly retainer): one shared inbox across three domains, a GoHighLevel fix that stopped a new opportunity opening on every reply, and a reactivation plan for 1,500 idle contacts.
+- **Australian Power**: WhatsApp solar-quote bot. The customer sends a photo of their power bill, AI reads it, and the chat runs to a quote, payment and install photos, with hand-off to HubSpot.
+- **Second to None** (Auckland painting company): site rebuilt for Google and AI answers, quote form with routing, site and form monitoring, a weekly blog engine and weekly SEO reports.
 
-</div>
+## What runs my business (private)
 
----
+- **TaskDriver business OS**: clients, CRM, invoices, todos, agents and machine health in one app, with an MCP server for AI assistants. Next.js, Supabase.
+- **PaneForge**: desktop workspace that runs and supervises many AI coding agents at once.
+- **GuardDeck**: macOS app where agents ask for approval before risky actions, with a Stop control. Swift.
 
-### What I do for clients
+Over 8,000 commits across these products and [Toolstash](https://toolstash.xyz) this year; the contribution graph below counts that private work.
 
-| | |
-|---|---|
-| **AI automation** | Inbox triage, lead capture, quoting, CRM sync, reporting — the repetitive work, done by an agent instead of a person. |
-| **WhatsApp & voice agents** | Bots and AI receptionists that answer, qualify and book, 24/7. |
-| **Web design & build** | Fast Next.js sites that load quickly, rank, and convert. |
-| **Integrations & IT** | HubSpot, Mailchimp, Stripe, Google Workspace, Supabase — wired together and kept running. |
+## Public code
 
-60+ jobs delivered at **4.9★** across IT support, AI integration and CRM work.
+- **[n8n-portfolio](https://github.com/robertiuoras/n8n-portfolio)**: CRM sync with retries and de-duplication, lead scoring, an FAQ bot that refuses instead of guessing, document search and guarded actions, with 93 passing tests.
+- **[claude-mods](https://github.com/robertiuoras/claude-mods)**: Claude Code mods. Flight Recorder shows where every turn's time goes.
+- **[quitonclose](https://github.com/robertiuoras/quitonclose)**: free macOS menu-bar app that fully quits an app when its last window closes. Swift.
 
----
+## How I work
 
-### Things I ship publicly
-
-**[PaneForge](https://github.com/robertiuoras/PaneForge)** — one window for every coding agent you own. Claude Code, Codex, Gemini CLI, Ollama and more, each in its own real terminal pane. Windows + macOS, free, no accounts, no server.
-<sub>Electron · TypeScript · node-pty</sub>
-
-**[QuitOnClose](https://github.com/robertiuoras/quitonclose)** — free macOS menu-bar app that fully quits an app when its last window closes. Open-source alternative to FixRed.
-<sub>Swift · AppKit</sub>
-
-**[Toolstash](https://toolstash.xyz)** — searchable database of AI tools, with a curated registry behind it.
-<sub>Next.js · Supabase</sub>
-
-**[TaskDriver](https://taskdriver.ai)** — the agency, and the operations platform behind it: client board, mail intake, invoicing, agent monitoring.
-<sub>Next.js · Supabase · Anthropic · Vercel</sub>
-
----
-
-### Built with
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-
----
-
-<div align="center">
-
-**Need something automated?** &nbsp;→&nbsp; [**taskdriver.ai**](https://taskdriver.ai)
-
-</div>
+Fixed scope and price agreed first. Built on your accounts. Tested before handover, with written notes. Australian time zone: US agencies hand work over at the end of their day and wake up to progress.
